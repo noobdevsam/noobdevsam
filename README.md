@@ -93,7 +93,6 @@ Feel free to open an issue or reach out.
 
 ### 💬 Connect
 LinkedIn: https://www.linkedin.com/in/noobdevsam  
-Facebook: https://www.facebook.com/SamiulShoykot  
 
 ---
 
